@@ -11,18 +11,15 @@ description: <div>Project Summary</div>
 <li>This project creates a solution generator for a <a href="https://en.wikipedia.org/wiki/Lights_Out_(game)"> Lights-Out game </a> of any square size by Boolean satisfiability using the Java Z3 SAT Solver Library.</li>
 <li>You can read more about the project <a href="https://github.com/shen02/CS2800Project">here</a>.</li>
 </ul>
-<div>
-		Challenges</div>
+<div>Challenges</div>
 	<ul>
 	<li>Solution generators for Lights-Out already exist; yet those solutions are found using linear algebraic methods.&nbsp;</li>
 </ul>
-<div>
-	Results</div>
+<div>Results</div>
 <ul>
 <li>The project uses Boolean algebra and logical computations (SAT Solver) to solve the puzzles, instead.&nbsp;</li>
 </ul>
-<div>
-	Design Steps</div>
+<div>Design Steps</div>
 <ul>
 <li>Decided upon creating a solver for Lights-Out puzzles.</li>
 <li>Conducted research on related subjects, such as the rules of the puzzle and the pre-existing solver methods.</li>
