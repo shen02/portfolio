@@ -6,7 +6,7 @@ img: satsolver.gif
 alt: image-alt
 project-date: November 2020
 category: Propositional Logic, Java Programming
-description: 
+description: test
 <div>Project Summary</div>
 <ul>
 <li>This project creates a solution generator for a <a href="https://en.wikipedia.org/wiki/Lights_Out_(game)"> Lights-Out game </a> of any square size by Boolean satisfiability using the Java Z3 SAT Solver Library.</li>
