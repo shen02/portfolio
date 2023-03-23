@@ -12,8 +12,8 @@ description: <div>Project Summary</div>
 <li>You can read more about the project <a href="https://github.com/shen02/CS2800Project">here</a>.</li>
 </ul>
 <div>Challenges</div>
-	<ul>
-	<li>Solution generators for Lights-Out already exist; yet those solutions are found using linear algebraic methods.&nbsp;</li>
+<ul>
+<li>Solution generators for Lights-Out already exist; yet those solutions are found using linear algebraic methods.&nbsp;</li>
 </ul>
 <div>Results</div>
 <ul>
@@ -28,8 +28,7 @@ description: <div>Project Summary</div>
 <li>Connected the CNF statements with the Z3 SAT Solver.</li>
 <li>Created the interactive user interfaces for the project.</li>
 </ul>
-<div>
-	Skills Developed</div>
+<div>Skills Developed</div>
 <ul>
 <li>Translation of puzzle games into Boolean algebraic statements.</li>
 <li>Familiarity with the Z3 SAT Solver.</li>
